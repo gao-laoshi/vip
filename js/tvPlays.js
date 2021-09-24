@@ -2,7 +2,7 @@ var tvPlaysList = [
 	{
 		name : "双面神探",
 		image : "https://pic5.iqiyipic.com/image/20210908/59/a2/a_100476184_m_601_260_360.jpg",
-		size: 16,
+		size: 20,
 		path: [
 			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/13994696.html",//01
             "https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/13994701.html",//02
@@ -20,6 +20,10 @@ var tvPlaysList = [
             "https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14107966.html",//14
             "https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14107987.html",//15
             "https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14108018.html",//16
+			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14191418.html",//17
+			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14191461.html",//18
+			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14191476.html",//19
+			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14191516.html",//20
 		]
 	},{
 		name : "双面神探-双雨师徒篇",
