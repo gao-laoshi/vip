@@ -1,4 +1,4 @@
-var list = [
+var tvPlaysList = [
 	{
 		name : "双面神探",
 		image : "https://i.loli.net/2021/09/24/Fr8CctxAsJH5KWG.jpg",
