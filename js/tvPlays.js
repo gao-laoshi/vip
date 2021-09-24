@@ -1,7 +1,7 @@
 var tvPlaysList = [
 	{
 		name : "双面神探",
-		image : "https://i.loli.net/2021/09/24/Fr8CctxAsJH5KWG.jpg",
+		image : "https://pic5.iqiyipic.com/image/20210908/59/a2/a_100476184_m_601_260_360.jpg",
 		size: 16,
 		path: [
 			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/13994696.html",//01
@@ -23,14 +23,14 @@ var tvPlaysList = [
 		]
 	},{
 		name : "双面神探-双雨师徒篇",
-		image : "https://i.loli.net/2021/09/24/Lxhk3fJb2wj14yG.jpg",
+		image : "https://0img.hitv.com/preview/sp_images/2021/09/03/202109031533368942050.jpg",
 		size: 1,
 		path: [
 			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/388757/14021083.html",//1
 		]
 	},{
 		name : "一生一世",
-		image : "https://i.loli.net/2021/09/24/uwgIY8CK5taxj3f.jpg",
+		image : "https://pic0.iqiyipic.com/image/20210914/9f/30/a_100447497_m_601_m4_260_360.jpg",
 		size: 30,
 		path: [
 			"https://vip.parwix.com:4433/player/?url=http://www.iqiyi.com/v_1d0dmvryo2o.html",//1
