@@ -1,4 +1,4 @@
-var list = [
+var moviesList = [
 	{
 		id: 0,
 		name : "中国医生",
