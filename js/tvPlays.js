@@ -64,5 +64,27 @@ var tvPlaysList = [
             "https://jx.mmkv.cn/m3u8.php?url=https://vip.qianyicp.com/data/api_m3u8_j/iqiyi_1813fjg8q80.m3u8",//29
             "https://jx.mmkv.cn/m3u8.php?url=https://vip.qianyicp.com/data/api_m3u8_j/iqiyi_20ow6zjoux4.m3u8",//30
 		]
+	},{
+		name : "双探",
+		image : "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200zafwrt81631155166013/",//260
+		size: 16,
+		path: [
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/stan01.m3u8",//1
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/stan02.m3u8",//2
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/stan03.m3u8",//3
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/stan04.m3u8",//4
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/stan05.m3u8",//5
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/stan06.m3u8",//6
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st07.m3u8",//7
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st08.m3u8",//8
+			"https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st09.m3u8",//9
+            "https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st10.m3u8",//10
+            "https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st11.m3u8",//11
+            "https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st12.m3u8",//12
+            "https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st13.m3u8",//13
+            "https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st14.m3u8",//14
+            "https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st15.m3u8",//15
+            "https://jx.mmkv.cn/m3u8.php?url=https://cdn.oss-cn-hangzhou.myqcloud.com.xuetuiguang.cn/m3u8video/st16.m3u8",//16
+		]
 	}
 ];
