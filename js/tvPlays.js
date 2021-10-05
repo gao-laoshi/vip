@@ -99,7 +99,7 @@ var tvPlaysList = [
 	},{
 		name : "锦衣之下",
 		image : "https://pic0.iqiyipic.com/image/20210914/6f/0f/a_100106079_m_601_m25_260_360.jpg",//260
-		size: 7,
+		size: 55,
 		path: [
 			"https://vip.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rwgb3br4.html",//01
 			"https://vip.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rwgb39v0.html",//02
