@@ -28,8 +28,8 @@ var tvPlaysList = [
 			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14269682.html",//22
 			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14269703.html",//23
 			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14269711.html",//24
-			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14330520.html",//25
-			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14330536.html",//26
+			"https://jx.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14330520.html",//25
+			"https://jx.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14330536.html",//26
 		]
 	},{
 		name : "双面神探-双雨师徒篇",
