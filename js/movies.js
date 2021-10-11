@@ -2,7 +2,7 @@ var moviesList = [
 	{
 		id: 0,
 		name : "长津湖TC",
-		image : "https://pic1.iqiyipic.com/image/20210921/73/e3/v_160116650_m_601_m7_260_360.jpg",
+		image : "https://pic6.iqiyipic.com/image/20210910/6c/5f/v_157645717_m_601_m10_260_360.jpg",
 		path: "https://jx.mmkv.cn/m3u8.php?url=https://v.htpan.net/hls/jjkVTgzqWxGHIEpy/playlist.m3u8"
 	},{
 		id: 1,
