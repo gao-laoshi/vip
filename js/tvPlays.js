@@ -31,14 +31,14 @@ var tvPlaysList = [
 			"https://jx.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14330520.html",//25
 			"https://jx.parwix.com:4433/player/?url=https://www.mgtv.com/b/387110/14330536.html",//26
 		]
-	},{
+	}/*,{
 		name : "双面神探-双雨师徒篇",
 		image : "https://0img.hitv.com/preview/sp_images/2021/09/03/202109031533368942050.jpg",
 		size: 1,
 		path: [
 			"https://vip.parwix.com:4433/player/?url=https://www.mgtv.com/b/388757/14021083.html",//1
 		]
-	},{
+	}*/,{
 		name : "一生一世",
 		image : "https://pic0.iqiyipic.com/image/20210914/9f/30/a_100447497_m_601_m4_260_360.jpg",
 		size: 30,
@@ -156,6 +156,21 @@ var tvPlaysList = [
 			"https://vip.parwix.com:4433/player/?url=http://www.iqiyi.com/v_19rvq1a95o.html",//53
 			"https://vip.parwix.com:4433/player/?url=http://www.iqiyi.com/v_19rvq1a3j4.html",//54
 			"https://vip.parwix.com:4433/player/?url=http://www.iqiyi.com/v_19rvq4082k.html",//55
+		]
+	},{
+		name : "开端",
+		image : "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200mp8vo9b1641279785046/260",//260
+		size: 8,
+		path: [
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/n0041aa087e.html",//01
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/y0041hif2qg.html",//02
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/t0041io2oun.html",//03
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/q0041km1qdw.html",//04
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/v00419zggaq.html",//05
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/u004137wwpn.html",//06
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/o004113m654.html",//07
+			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/n0041agz3nj.html",//08
+
 		]
 	}
 ];
