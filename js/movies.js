@@ -1,9 +1,9 @@
 var moviesList = [
 	{
 		id: 0,
-		name : "长津湖TC",
+		name : "长津湖",//"长津湖TC",
 		image : "https://pic6.iqiyipic.com/image/20210910/6c/5f/v_157645717_m_601_m10_260_360.jpg",
-		path: "https://jx.mmkv.cn/m3u8.php?url=https://v.htpan.net/hls/jjkVTgzqWxGHIEpy/playlist.m3u8"
+		path: "https://vip.parwix.com:4433/player/?url=https://www.iqiyi.com/v_pzqg2653vk.html"//"https://jx.mmkv.cn/m3u8.php?url=https://v.htpan.net/hls/jjkVTgzqWxGHIEpy/playlist.m3u8"
 	},{
 		id: 1,
 		name : "中国医生",
