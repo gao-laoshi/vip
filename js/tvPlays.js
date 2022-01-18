@@ -172,5 +172,31 @@ var tvPlaysList = [
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/n0041agz3nj.html",//08
 
 		]
+	},{
+		name : "请回答1988",
+		image : "https://pic9.iqiyipic.com/image/20220112/96/e6/a_100018575_m_601_m11_260_360.jpg",//260
+		size: 20,
+		path: [
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkh3ag.html",//1080p_01
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkh02g.html",//1080p_02
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkkys8.html",//1080p_03
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjapo.html",//1080p_04
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkj1l8.html",//1080p_05
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkj69o.html",//1080p_06
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkkah8.html",//1080p_07
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkk4eo.html",//1080p_08
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkk6c0.html",//1080p_09
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkk8a0.html",//1080p_10
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkk71k.html",//1080p_11
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkk1tw.html",//1080p_12
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkk14k.html",//1080p_13
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjqko.html",//1080p_14
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjscg.html",//1080p_15
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjryk.html",//1080p_16
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkju6o.html",//1080p_17
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjtuo.html",//1080p_18
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjswo.html",//1080p_19
+			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjvno.html",//1080p_20
+		]
 	}
 ];
