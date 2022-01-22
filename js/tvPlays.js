@@ -204,5 +204,24 @@ var tvPlaysList = [
 			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjswo.html",//1080p_19
 			"https://jx.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrlkjvno.html",//1080p_20
 		]
+	},{
+		name : "今生有你",
+		image : "https://m.ykimg.com/0526000061DFF5D313F7FF09E3C2E09D",
+		size: 12,
+		path: [
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzU3MzY3Mg==.html",//1080p_01
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzYyMTI0NA==.html",//1080p_02
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzYyMTQ2NA==.html",//1080p_03
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzczMDE2OA==.html",//1080p_04
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzczMDE3Mg==.html",//1080p_05
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzczMDE1Ng==.html",//1080p_06
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzgyNDIyOA==.html",//1080p_07
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzgyNDIyNA==.html",//1080p_08
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzk1NzUyNA==.html",//1080p_09
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwMzk1NzUyOA==.html",//1080p_10
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwNDAyNTQwNA==.html",//1080p_11
+			"https://okjx.cc/?url=http://v.youku.com/v_show/id_XNTIwNDAyNTQwMA==.html",//1080p_12
+
+		]
 	}
 ];
