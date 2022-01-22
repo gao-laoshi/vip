@@ -160,7 +160,7 @@ var tvPlaysList = [
 	},{
 		name : "开端",
 		image : "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200mp8vo9b1641279785046/260",//260
-		size: 8,
+		size: 13,
 		path: [
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/n0041aa087e.html",//01
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/y0041hif2qg.html",//02
@@ -170,6 +170,12 @@ var tvPlaysList = [
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/u004137wwpn.html",//06
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/o004113m654.html",//07
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/n0041agz3nj.html",//08
+			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/e0041g4ig0q.html",//1080p_09
+			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/k0041rkp9jq.html",//1080p_10
+			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/v0041ubssc9.html",//1080p_11
+			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/m00415j76yy.html",//1080p_12
+			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/k00419bgcnx.html",//1080p_13
+
 
 		]
 	},{
