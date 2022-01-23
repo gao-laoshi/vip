@@ -54,5 +54,10 @@ var moviesList = [
 		name : "第十一回",
 		image : "https://pic7.iqiyipic.com/image/20210526/50/71/v_127763044_m_601_m9_260_360.jpg",
 		path: "https://jx.ihuikr.com/player/?url=https://www.iqiyi.com/v_19rsiogugk.html"
+	},{
+		id: 11,
+		name : "白日焰火",
+		image : "https://pic9.iqiyipic.com/image/20210916/f3/68/v_106245859_m_601_m15_260_360.jpg",
+		path: "https://vip.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrhs0fjk.html"
 	}
 ];
