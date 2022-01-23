@@ -59,5 +59,10 @@ var moviesList = [
 		name : "白日焰火",
 		image : "https://pic9.iqiyipic.com/image/20210916/f3/68/v_106245859_m_601_m15_260_360.jpg",
 		path: "https://vip.parwix.com:4433/player/?url=https://www.iqiyi.com/v_19rrhs0fjk.html"
+	},{
+		id: 12,
+		name : "烈日灼心",
+		image : "https://pic2.iqiyipic.com/image/20210916/3a/11/v_109575112_m_601_m8_260_360.jpg",
+		path: "https://vip.parwix.com:4433/player/?url=https://www.bilibili.com/bangumi/play/ss10060?bsource=baidu_aladdin"
 	}
 ];
