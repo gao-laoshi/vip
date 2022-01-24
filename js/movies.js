@@ -64,5 +64,10 @@ var moviesList = [
 		name : "烈日灼心",
 		image : "https://pic2.iqiyipic.com/image/20210916/3a/11/v_109575112_m_601_m8_260_360.jpg",
 		path: "https://vip.parwix.com:4433/player/?url=https://www.bilibili.com/bangumi/play/ss10060?bsource=baidu_aladdin"
+	},{
+		id: 13,
+		name : "无双",
+		image : "https://pic7.iqiyipic.com/image/20210915/1c/55/v_116163725_m_601_m18_260_360.jpg",
+		path: "https://jx.xmflv.com/?url=https://www.iqiyi.com/v_19rrdgdwpg.html"
 	}
 ];
