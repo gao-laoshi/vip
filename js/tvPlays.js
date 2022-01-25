@@ -175,6 +175,8 @@ var tvPlaysList = [
 			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/v0041ubssc9.html",//1080p_11
 			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/m00415j76yy.html",//1080p_12
 			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/k00419bgcnx.html",//1080p_13
+			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/j0041bc5ulb.html",//1080p_14
+			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/x0041qqe42w.html",//1080p_15
 
 
 		]
