@@ -160,7 +160,7 @@ var tvPlaysList = [
 	},{
 		name : "开端",
 		image : "https://puui.qpic.cn/vcover_vt_pic/0/mzc00200mp8vo9b1641279785046/260",//260
-		size: 13,
+		size: 15,
 		path: [
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/n0041aa087e.html",//01
 			"https://okjx.cc/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/y0041hif2qg.html",//02
@@ -177,8 +177,6 @@ var tvPlaysList = [
 			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/k00419bgcnx.html",//1080p_13
 			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/j0041bc5ulb.html",//1080p_14
 			"https://jx.xmflv.com/?url=https://v.qq.com/x/cover/mzc00200mp8vo9b/x0041qqe42w.html",//1080p_15
-
-
 		]
 	},{
 		name : "请回答1988",
